@@ -17,14 +17,9 @@ With over 15 years of experience in advanced analytics and artificial intelligen
 
 Specializing in tools like DAX, Python, SAS, and Power BI, I integrate these resources to deliver precise, actionable insights. I approach each project with rigor and precision, creating scalable solutions that produce real, lasting impact. With a strong focus on leadership and building high-performing teams, I drive the development of analytical and strategic capabilities that contribute to informed decision-making across the organization.
 
-<div align='right'>
-<a href="https://linkedin.com/in/diego-moreno-30550a16a" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-<a href="mailto:diegometrics@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</div>
+
+
+<h2 align="center">🚀 Ready to Transform Your Data Journey?</h2> <p align="center"> If you're looking to unlock the potential of your data with strategic insights and impactful solutions, let's connect! Whether it’s optimizing processes, building predictive models, or driving meaningful business transformations, I'm here to help bring your vision to life. </p> <p align="center"> <a href="https://linkedin.com/in/diego-moreno-30550a16a" target="_blank"> <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px;"> </a> <a href="mailto:diegometrics@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Let's%20Talk%20Data-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
